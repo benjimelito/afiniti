@@ -1,0 +1,49 @@
+{
+  "radius-1": {
+    "value": "30px",
+    "description": "Observed 30x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "radius-2": {
+    "value": "6px",
+    "description": "Observed 20x on https://www.afiniti.com/about-us, https://www.afiniti.com/job/",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/"
+    ]
+  },
+  "radius-3": {
+    "value": "8px",
+    "description": "Observed 20x on https://www.afiniti.com, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction"
+    ]
+  },
+  "radius-4": {
+    "value": "10px",
+    "description": "Observed 10x on https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange"
+    ]
+  },
+  "radius-5": {
+    "value": "5px",
+    "description": "Observed 10x on https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  }
+}

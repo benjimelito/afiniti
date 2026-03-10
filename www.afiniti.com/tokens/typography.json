@@ -1,0 +1,87 @@
+{
+  "font-family-1": {
+    "value": "DM Sans",
+    "description": "Observed 120x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 120,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "font-family-2": {
+    "value": "Polysans",
+    "description": "Observed 120x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 120,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "font-heading-3": {
+    "value": "20px",
+    "description": "Observed 60x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "font-body-4": {
+    "value": "16px",
+    "description": "Observed 60x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "font-family-5": {
+    "value": "Acid Grotesk",
+    "description": "Observed 60x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "font-heading-6": {
+    "value": "100px",
+    "description": "Observed 30x on https://www.afiniti.com, https://www.afiniti.com/about-us, https://www.afiniti.com/responsible-ai/how-it-works",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.afiniti.com",
+      "https://www.afiniti.com/about-us",
+      "https://www.afiniti.com/responsible-ai/how-it-works"
+    ]
+  },
+  "font-heading-7": {
+    "value": "66px",
+    "description": "Observed 30x on https://www.afiniti.com/job/, https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange, https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.afiniti.com/job/",
+      "https://www.afiniti.com/afinitis-ai-pairing-solution-is-now-available-on-nice-cxexchange",
+      "https://www.afiniti.com/afiniti-successfully-completes-recapitalization-transaction"
+    ]
+  }
+}

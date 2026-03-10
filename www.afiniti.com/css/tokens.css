@@ -1,0 +1,59 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.afiniti.com/
+ * Generated: 2026-03-10T00:33:25.453Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-brand-primary: #07285b; /* 165x */
+  --sm-color-fff: #fff; /* 98x */
+  --sm-color-0a2133: #0a2133; /* 94x */
+  --sm-color-rgb-255-255-255: rgb(255,255,255); /* 78x */
+  --sm-color-brand-accent: #f03a5d; /* 75x */
+  --sm-color-rgb-18-40-88: rgb(18,40,88); /* 55x */
+  --sm-color-brand-background: #f2f7f7; /* 10x */
+  --sm-color-122858: #122858; /* 39x */
+  --sm-color-1c2c59: #1c2c59; /* 36x */
+  --sm-color-rgb-219-75-96: rgb(219,75,96); /* 21x */
+  --sm-color-brand-textprimary: #000000; /* 10x */
+  --sm-color-534ec5: #534ec5; /* 9x */
+  --sm-color-544ec5: #544ec5; /* 7x */
+  --sm-color-da4b60: #da4b60; /* 6x */
+  --sm-color-040a1f: #040a1f; /* 1x */
+  --sm-color-1a1818: #1a1818; /* 1x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: DM Sans; /* 120x */
+  --sm-font-family-2: Polysans; /* 120x */
+  --sm-font-heading-3: 20px; /* 60x */
+  --sm-font-body-4: 16px; /* 60x */
+  --sm-font-family-5: Acid Grotesk; /* 60x */
+  --sm-font-heading-6: 100px; /* 30x */
+  --sm-font-heading-7: 66px; /* 30x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 60x */
+  --sm-spacing-xs-1: 0px; /* 6x */
+  --sm-spacing-sm: 6px; /* 5x */
+  --sm-spacing-md: 10px; /* 5x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 30px; /* 30x */
+  --sm-radius-2: 6px; /* 20x */
+  --sm-radius-3: 8px; /* 20x */
+  --sm-radius-4: 10px; /* 10x */
+  --sm-radius-5: 5px; /* 10x */
+
+}
